@@ -154,9 +154,7 @@ const config: Config = {
 				  margin: '0 1px',
 				},
 				code: {
-					background: theme('colors.neutral.950'), 
-					fontWeight: theme('fontWeight.medium'),
-					fontVariantLigatures: 'none',
+					color: theme('colors.neutral.950'),
 				},
 				pre: {
 				  color: theme('colors.slate.50'),
@@ -222,7 +220,6 @@ const config: Config = {
 				  color: theme('colors.slate.200'),
 				},
 				code: {
-					background: theme('colors.neutral.100'), 
 				  	color: theme('colors.neutral.900'),
 				},
 				hr: {
