@@ -107,6 +107,18 @@ export const documentationNav: NavigationSection[] = [
     title: "Features",
     links: [
       {
+        title: "Next.js",
+        href: "/docs/next-js"
+      },
+      {
+        title: "Prisma",
+        href: "/docs/prisma"
+      },
+      {
+        title: "TipTap",
+        href: "/docs/tiptap"
+      },
+      {
         title: "Rich Snippets",
         href: "/docs/rich-snippets"
       },
