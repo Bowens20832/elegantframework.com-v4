@@ -107,6 +107,23 @@ export const documentationNav: NavigationSection[] = [
     title: "Features",
     links: [
       {
+        title: "Rich Snippets",
+        href: "/docs/rich-snippets"
+      },
+      {
+        title: "Robots.txt",
+        href: "/docs/robots-txt"
+      },
+      {
+        title: "Sitemaps",
+        href: "/docs/sitemaps"
+      }
+    ]
+  },
+  {
+    title: "Integrations",
+    links: [
+      {
         title: "Next.js",
         href: "/docs/next-js"
       },
@@ -123,16 +140,12 @@ export const documentationNav: NavigationSection[] = [
         href: "/docs/cloudflare-r2-storage"
       },
       {
-        title: "Rich Snippets",
-        href: "/docs/rich-snippets"
+        title: "ConvertKit",
+        href: "/docs/convertkit"
       },
       {
-        title: "Robots.txt",
-        href: "/docs/robots-txt"
-      },
-      {
-        title: "Sitemaps",
-        href: "/docs/sitemaps"
+        title: "Google Analytics",
+        href: "/docs/google-analytics"
       }
     ]
   },
@@ -142,19 +155,6 @@ export const documentationNav: NavigationSection[] = [
       title: "Theme",
       href: "/docs/theme"
     }]
-  },
-  {
-    title: "Plugins",
-    links: [
-      {
-        title: "ConvertKit",
-        href: "/docs/convertkit"
-      },
-      {
-        title: "Google Analytics",
-        href: "/docs/google-analytics"
-      }
-    ]
   },
   {
     title: "Contributing",
