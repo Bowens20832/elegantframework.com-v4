@@ -119,6 +119,10 @@ export const documentationNav: NavigationSection[] = [
         href: "/docs/tiptap"
       },
       {
+        title: "Cloudflare R2 Storage",
+        href: "/docs/cloudflare-r2-storage"
+      },
+      {
         title: "Rich Snippets",
         href: "/docs/rich-snippets"
       },
