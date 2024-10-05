@@ -136,6 +136,10 @@ export const documentationNav: NavigationSection[] = [
         href: "/docs/tiptap"
       },
       {
+        title: "Auth.js",
+        href: "/docs/auth-js"
+      },
+      {
         title: "Cloudflare R2 Storage",
         href: "/docs/cloudflare-r2-storage"
       },
