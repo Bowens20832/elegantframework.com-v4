@@ -117,6 +117,10 @@ export const documentationNav: NavigationSection[] = [
       {
         title: "Sitemaps",
         href: "/docs/sitemaps"
+      },
+      {
+        title: "PostgreSQL",
+        href: "/docs/postgresql"
       }
     ]
   },
