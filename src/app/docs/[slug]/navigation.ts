@@ -136,6 +136,14 @@ export const documentationNav: NavigationSection[] = [
         href: "/docs/prisma"
       },
       {
+        title: "Supabase",
+        href: "/docs/postgresql#setting-up-a-postgresql-database-with-supabase"
+      },
+      {
+        title: "Neon",
+        href: "/docs/postgresql#setting-up-a-postgresql-database-with-neon"
+      },
+      {
         title: "TipTap",
         href: "/docs/tiptap"
       },
