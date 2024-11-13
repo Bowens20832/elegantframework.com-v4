@@ -137,11 +137,11 @@ export const documentationNav: NavigationSection[] = [
       },
       {
         title: "Supabase",
-        href: "/docs/postgresql#setting-up-a-postgresql-database-with-supabase"
+        href: "/docs/supabase"
       },
       {
         title: "Neon",
-        href: "/docs/postgresql#setting-up-a-postgresql-database-with-neon"
+        href: "/docs/neon"
       },
       {
         title: "TipTap",
