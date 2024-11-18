@@ -128,10 +128,6 @@ export const documentationNav: NavigationSection[] = [
     title: "Integrations",
     links: [
       {
-        title: "Next.js",
-        href: "/docs/next-js"
-      },
-      {
         title: "Prisma",
         href: "/docs/prisma"
       },
